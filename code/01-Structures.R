@@ -1,6 +1,8 @@
 ## 01-Structures.R
 # Code from 01-structures
 
+# Gavin Cude, modsifying this file
+
 5 + 5
 4 - 1
 1 * 2
